@@ -1,0 +1,12 @@
+Mila Allen
+Staff Quality Engineer | Test Automation | AI/ML
+
+SUMMARY
+Quality engineer with 3 years of experience in test automation and QA processes. Skilled in Python, AI/ML, and CI/CD frameworks. Developed an automated testing framework, enhancing project efficiency. Passionate about pushing quality left to improve product delivery.
+
+SKILLS
+Quality engineer with 3 years of experience in test automation and QA processes. Skilled in Python, AI/ML, and CI/CD frameworks. Developed an automated testing framework, enhancing project efficiency. Passionate about pushing quality left to improve product delivery.
+
+EXPERIENCE
+Quality Engineer in IBM
+Test Automation Intern in Salesforce

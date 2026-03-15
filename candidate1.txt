@@ -1,0 +1,14 @@
+Elijah Brown
+Senior Machine Learning Engineer | Autonomous Systems Enthusiast
+
+SUMMARY
+With 10 years in machine learning, I excel in building real-time, low-latency services, utilizing TensorFlow, and driving autonomous solution growth. Built a system that improved ad efficiency by 35%.
+
+SKILLS
+Machine Learning, Deep Learning, Python, TensorFlow, Real-time Systems, Autonomous Systems
+
+EXPERIENCE 
+Senior Machine Learning Engineer in Google
+Machine Learning Engineer in Amazon
+Data Scientist in Adobe
+

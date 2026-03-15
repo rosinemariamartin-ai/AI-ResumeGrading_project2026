@@ -1,0 +1,10 @@
+Paisley Moore
+Senior Machine Learning Scientist | Innovation | Drug Development
+
+SUMMARY
+Dedicated Machine Learning Scientist with over 3 years of experience in advanced ML model development. Strong background in multimodal generative models and reinforcement learning. Notable achievement of reducing clinical trial timelines by 25% through innovative data analysis techniques.
+
+EXPERIENCE
+Machine Learning Scientist- Novartis
+Data Scientist- Pfizer
+Research Scientist- Bristol Myers Squibb
